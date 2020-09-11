@@ -1,5 +1,3 @@
-# ProjectOne
-
 Project Title: COVID-19
 
 Team Members: Michael Bien, Lupita Lopez, Jinah Porter, Debra Wu
@@ -16,6 +14,11 @@ Gender
 Ethnicity
 
 Data Sets to be Used
-
+http://www.census.gov/data.html
+https://covid19api.com/
 
 Rough Breakdown of Tasks
+Gather the data from sets mentioned above
+Clean the data into the project scope
+Choosing Timelines
+Choosing Visuals 
